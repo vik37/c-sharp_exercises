@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_06_Dictionary\bin\Debug\netcoreapp2.1\Exercise_06_Dictionary.deps.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_06_Dictionary\bin\Debug\netcoreapp2.1\Exercise_06_Dictionary.runtimeconfig.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_06_Dictionary\bin\Debug\netcoreapp2.1\Exercise_06_Dictionary.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_06_Dictionary\bin\Debug\netcoreapp2.1\Exercise_06_Dictionary.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_06_Dictionary\bin\Debug\netcoreapp2.1\Exercise_06_Dictionary.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_06_Dictionary\obj\Debug\netcoreapp2.1\Exercise_06_Dictionary.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_06_Dictionary\obj\Debug\netcoreapp2.1\Exercise_06_Dictionary.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_06_Dictionary\obj\Debug\netcoreapp2.1\Exercise_06_Dictionary.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_06_Dictionary\obj\Debug\netcoreapp2.1\Exercise_06_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_06_Dictionary\obj\Debug\netcoreapp2.1\Exercise_06_Dictionary.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_06_Dictionary\obj\Debug\netcoreapp2.1\Exercise_06_Dictionary.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_06_Dictionary\obj\Debug\netcoreapp2.1\Exercise_06_Dictionary.genruntimeconfig.cache

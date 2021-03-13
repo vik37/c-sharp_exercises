@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_11_Inheritance\bin\Debug\netcoreapp2.1\Exercise_11_Inheritance.deps.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_11_Inheritance\bin\Debug\netcoreapp2.1\Exercise_11_Inheritance.runtimeconfig.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_11_Inheritance\bin\Debug\netcoreapp2.1\Exercise_11_Inheritance.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_11_Inheritance\bin\Debug\netcoreapp2.1\Exercise_11_Inheritance.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_11_Inheritance\bin\Debug\netcoreapp2.1\Exercise_11_Inheritance.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_11_Inheritance\obj\Debug\netcoreapp2.1\Exercise_11_Inheritance.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_11_Inheritance\obj\Debug\netcoreapp2.1\Exercise_11_Inheritance.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_11_Inheritance\obj\Debug\netcoreapp2.1\Exercise_11_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_11_Inheritance\obj\Debug\netcoreapp2.1\Exercise_11_Inheritance.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_11_Inheritance\obj\Debug\netcoreapp2.1\Exercise_11_Inheritance.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_11_Inheritance\obj\Debug\netcoreapp2.1\Exercise_11_Inheritance.genruntimeconfig.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_11_Inheritance\obj\Debug\netcoreapp2.1\Exercise_11_Inheritance.csprojAssemblyReference.cache

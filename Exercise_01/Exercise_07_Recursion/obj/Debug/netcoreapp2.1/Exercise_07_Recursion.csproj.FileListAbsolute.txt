@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_07_Recursion\bin\Debug\netcoreapp2.1\Exercise_07_Recursion.deps.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_07_Recursion\bin\Debug\netcoreapp2.1\Exercise_07_Recursion.runtimeconfig.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_07_Recursion\bin\Debug\netcoreapp2.1\Exercise_07_Recursion.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_07_Recursion\bin\Debug\netcoreapp2.1\Exercise_07_Recursion.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_07_Recursion\bin\Debug\netcoreapp2.1\Exercise_07_Recursion.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_07_Recursion\obj\Debug\netcoreapp2.1\Exercise_07_Recursion.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_07_Recursion\obj\Debug\netcoreapp2.1\Exercise_07_Recursion.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_07_Recursion\obj\Debug\netcoreapp2.1\Exercise_07_Recursion.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_07_Recursion\obj\Debug\netcoreapp2.1\Exercise_07_Recursion.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_07_Recursion\obj\Debug\netcoreapp2.1\Exercise_07_Recursion.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_07_Recursion\obj\Debug\netcoreapp2.1\Exercise_07_Recursion.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_07_Recursion\obj\Debug\netcoreapp2.1\Exercise_07_Recursion.genruntimeconfig.cache

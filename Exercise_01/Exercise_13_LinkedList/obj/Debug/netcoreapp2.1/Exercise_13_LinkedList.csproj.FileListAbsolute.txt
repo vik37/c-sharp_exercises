@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_13_LinkedList\bin\Debug\netcoreapp2.1\Exercise_13_LinkedList.deps.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_13_LinkedList\bin\Debug\netcoreapp2.1\Exercise_13_LinkedList.runtimeconfig.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_13_LinkedList\bin\Debug\netcoreapp2.1\Exercise_13_LinkedList.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_13_LinkedList\bin\Debug\netcoreapp2.1\Exercise_13_LinkedList.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_13_LinkedList\bin\Debug\netcoreapp2.1\Exercise_13_LinkedList.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_13_LinkedList\obj\Debug\netcoreapp2.1\Exercise_13_LinkedList.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_13_LinkedList\obj\Debug\netcoreapp2.1\Exercise_13_LinkedList.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_13_LinkedList\obj\Debug\netcoreapp2.1\Exercise_13_LinkedList.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_13_LinkedList\obj\Debug\netcoreapp2.1\Exercise_13_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_13_LinkedList\obj\Debug\netcoreapp2.1\Exercise_13_LinkedList.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_13_LinkedList\obj\Debug\netcoreapp2.1\Exercise_13_LinkedList.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_13_LinkedList\obj\Debug\netcoreapp2.1\Exercise_13_LinkedList.genruntimeconfig.cache

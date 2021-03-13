@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_08\bin\Debug\netcoreapp2.1\Exercise_08.deps.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_08\bin\Debug\netcoreapp2.1\Exercise_08.runtimeconfig.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_08\bin\Debug\netcoreapp2.1\Exercise_08.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_08\bin\Debug\netcoreapp2.1\Exercise_08.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_08\bin\Debug\netcoreapp2.1\Exercise_08.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_08\obj\Debug\netcoreapp2.1\Exercise_08.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_08\obj\Debug\netcoreapp2.1\Exercise_08.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_08\obj\Debug\netcoreapp2.1\Exercise_08.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_08\obj\Debug\netcoreapp2.1\Exercise_08.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_08\obj\Debug\netcoreapp2.1\Exercise_08.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_08\obj\Debug\netcoreapp2.1\Exercise_08.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_08\obj\Debug\netcoreapp2.1\Exercise_08.genruntimeconfig.cache

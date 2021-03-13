@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+76JzbBFNscKWK/EOC9X6pP0cVabo5dL2QDhAfwmL+9hZdk5uDnO95ymjDZz41v1yf3X3VRXTNwTVVOMoBZ0jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\source\\repos\\Exercises\\Exercise_01\\Exercise_06_Dictionary\\Exercise_06_Dictionary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikto\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\vikto\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\vikto\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\vikto\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\vikto\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\vikto\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\vikto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

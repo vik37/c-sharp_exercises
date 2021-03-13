@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_10_multyDArray\bin\Debug\netcoreapp2.1\Exercise_10_multyDArray.deps.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_10_multyDArray\bin\Debug\netcoreapp2.1\Exercise_10_multyDArray.runtimeconfig.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_10_multyDArray\bin\Debug\netcoreapp2.1\Exercise_10_multyDArray.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_10_multyDArray\bin\Debug\netcoreapp2.1\Exercise_10_multyDArray.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_10_multyDArray\bin\Debug\netcoreapp2.1\Exercise_10_multyDArray.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_10_multyDArray\obj\Debug\netcoreapp2.1\Exercise_10_multyDArray.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_10_multyDArray\obj\Debug\netcoreapp2.1\Exercise_10_multyDArray.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_10_multyDArray\obj\Debug\netcoreapp2.1\Exercise_10_multyDArray.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_10_multyDArray\obj\Debug\netcoreapp2.1\Exercise_10_multyDArray.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_10_multyDArray\obj\Debug\netcoreapp2.1\Exercise_10_multyDArray.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_10_multyDArray\obj\Debug\netcoreapp2.1\Exercise_10_multyDArray.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_10_multyDArray\obj\Debug\netcoreapp2.1\Exercise_10_multyDArray.genruntimeconfig.cache

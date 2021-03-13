@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_15_Exceptions\bin\Debug\netcoreapp2.1\Exercise_15_Exceptions.deps.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_15_Exceptions\bin\Debug\netcoreapp2.1\Exercise_15_Exceptions.runtimeconfig.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_15_Exceptions\bin\Debug\netcoreapp2.1\Exercise_15_Exceptions.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_15_Exceptions\bin\Debug\netcoreapp2.1\Exercise_15_Exceptions.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_15_Exceptions\bin\Debug\netcoreapp2.1\Exercise_15_Exceptions.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_15_Exceptions\obj\Debug\netcoreapp2.1\Exercise_15_Exceptions.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_15_Exceptions\obj\Debug\netcoreapp2.1\Exercise_15_Exceptions.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_15_Exceptions\obj\Debug\netcoreapp2.1\Exercise_15_Exceptions.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_15_Exceptions\obj\Debug\netcoreapp2.1\Exercise_15_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_15_Exceptions\obj\Debug\netcoreapp2.1\Exercise_15_Exceptions.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_15_Exceptions\obj\Debug\netcoreapp2.1\Exercise_15_Exceptions.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_15_Exceptions\obj\Debug\netcoreapp2.1\Exercise_15_Exceptions.genruntimeconfig.cache
