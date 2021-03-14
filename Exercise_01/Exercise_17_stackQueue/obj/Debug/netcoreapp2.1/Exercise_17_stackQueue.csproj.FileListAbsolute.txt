@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17_stackQueue\bin\Debug\netcoreapp2.1\Exercise_17_stackQueue.deps.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17_stackQueue\bin\Debug\netcoreapp2.1\Exercise_17_stackQueue.runtimeconfig.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17_stackQueue\bin\Debug\netcoreapp2.1\Exercise_17_stackQueue.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17_stackQueue\bin\Debug\netcoreapp2.1\Exercise_17_stackQueue.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17_stackQueue\bin\Debug\netcoreapp2.1\Exercise_17_stackQueue.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17_stackQueue\obj\Debug\netcoreapp2.1\Exercise_17_stackQueue.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17_stackQueue\obj\Debug\netcoreapp2.1\Exercise_17_stackQueue.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17_stackQueue\obj\Debug\netcoreapp2.1\Exercise_17_stackQueue.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17_stackQueue\obj\Debug\netcoreapp2.1\Exercise_17_stackQueue.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17_stackQueue\obj\Debug\netcoreapp2.1\Exercise_17_stackQueue.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17_stackQueue\obj\Debug\netcoreapp2.1\Exercise_17_stackQueue.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17_stackQueue\obj\Debug\netcoreapp2.1\Exercise_17_stackQueue.genruntimeconfig.cache

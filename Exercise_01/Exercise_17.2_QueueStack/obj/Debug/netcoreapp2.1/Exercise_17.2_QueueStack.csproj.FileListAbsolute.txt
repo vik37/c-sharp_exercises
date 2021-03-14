@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17.2_QueueStack\bin\Debug\netcoreapp2.1\Exercise_17.2_QueueStack.deps.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17.2_QueueStack\bin\Debug\netcoreapp2.1\Exercise_17.2_QueueStack.runtimeconfig.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17.2_QueueStack\bin\Debug\netcoreapp2.1\Exercise_17.2_QueueStack.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17.2_QueueStack\bin\Debug\netcoreapp2.1\Exercise_17.2_QueueStack.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17.2_QueueStack\bin\Debug\netcoreapp2.1\Exercise_17.2_QueueStack.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17.2_QueueStack\obj\Debug\netcoreapp2.1\Exercise_17.2_QueueStack.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17.2_QueueStack\obj\Debug\netcoreapp2.1\Exercise_17.2_QueueStack.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17.2_QueueStack\obj\Debug\netcoreapp2.1\Exercise_17.2_QueueStack.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17.2_QueueStack\obj\Debug\netcoreapp2.1\Exercise_17.2_QueueStack.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17.2_QueueStack\obj\Debug\netcoreapp2.1\Exercise_17.2_QueueStack.dll
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17.2_QueueStack\obj\Debug\netcoreapp2.1\Exercise_17.2_QueueStack.pdb
+C:\Users\vikto\source\repos\Exercises\Exercise_01\Exercise_17.2_QueueStack\obj\Debug\netcoreapp2.1\Exercise_17.2_QueueStack.genruntimeconfig.cache
